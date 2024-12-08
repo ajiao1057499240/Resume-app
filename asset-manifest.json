@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Resume-app/static/css/main.7d65325d.css",
+    "main.js": "/Resume-app/static/js/main.09ec9c02.js",
+    "static/media/P3.png": "/Resume-app/static/media/P3.e9e27ca0c5b6535d83e4.png",
+    "static/media/w1.png": "/Resume-app/static/media/w1.cd5a273ab92b828743a3.png",
+    "static/media/color-sharp.png": "/Resume-app/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/Resume-app/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/background.webp": "/Resume-app/static/media/background.9f1c4e1d8f546995c0ee.webp",
+    "static/media/e1.png": "/Resume-app/static/media/e1.ffbf8c6fbab0cfb35c41.png",
+    "static/media/e3.png": "/Resume-app/static/media/e3.71cc830af97990b75416.png",
+    "static/media/w2.png": "/Resume-app/static/media/w2.ac99e3c12e97f1e42a81.png",
+    "static/media/photo.png": "/Resume-app/static/media/photo.760a75ff19dc14a0be37.png",
+    "static/media/e2.png": "/Resume-app/static/media/e2.cce50f51bf09816c03c4.png",
+    "static/media/circiut-removebg-preview.png": "/Resume-app/static/media/circiut-removebg-preview.d21e9f77e11fc528a0b6.png",
+    "static/media/CentraNo2-Bold.ttf": "/Resume-app/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/Resume-app/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/Resume-app/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/web-removebg-preview.png": "/Resume-app/static/media/web-removebg-preview.88744d62c7493f879fda.png",
+    "static/media/contactSvg.svg": "/Resume-app/static/media/contactSvg.73af54b946aab3037e99988d7d7f9bf2.svg",
+    "static/media/embeddedd-removebg-preview.png": "/Resume-app/static/media/embeddedd-removebg-preview.18d9b610275613b4fa66.png",
+    "static/media/LogoAndyBlack.png": "/Resume-app/static/media/LogoAndyBlack.6b4b6b35ec7773b9e3c1.png",
+    "static/media/product_designed-removebg-preview.png": "/Resume-app/static/media/product_designed-removebg-preview.fc7d5e0e044a35af6622.png",
+    "static/media/revicons.eot": "/Resume-app/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Resume-app/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Resume-app/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/nav-icon3.svg": "/Resume-app/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/nav-icon1.svg": "/Resume-app/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/arrow2.svg": "/Resume-app/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
+    "static/media/arrow1.svg": "/Resume-app/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
+    "static/media/nav-icon2.svg": "/Resume-app/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "index.html": "/Resume-app/index.html",
+    "main.7d65325d.css.map": "/Resume-app/static/css/main.7d65325d.css.map",
+    "main.09ec9c02.js.map": "/Resume-app/static/js/main.09ec9c02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d65325d.css",
+    "static/js/main.09ec9c02.js"
+  ]
+}
